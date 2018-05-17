@@ -1,4 +1,4 @@
-# Gender-Prediction-
+# Gender-Prediction-based-on-personality-traits
 Prediction of gender using python on survey data
 
 
